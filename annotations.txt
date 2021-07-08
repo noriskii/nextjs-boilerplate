@@ -1,0 +1,1 @@
+https://github.com/MathiasGilson/tailwind-styled-component
